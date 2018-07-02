@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\dm\dm\dm\bin\Debug\netstandard2.0\dm.deps.json
+C:\Users\admin\source\repos\dm\dm\dm\bin\Debug\netstandard2.0\dm.dll
+C:\Users\admin\source\repos\dm\dm\dm\bin\Debug\netstandard2.0\dm.pdb
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\dm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\dm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\dm.AssemblyInfo.cs
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\dm.dll
+C:\Users\admin\source\repos\dm\dm\dm\obj\Debug\netstandard2.0\dm.pdb
